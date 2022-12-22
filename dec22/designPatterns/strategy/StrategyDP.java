@@ -18,6 +18,7 @@ public class StrategyDP {
         price.put(2, 1850);
         price.put(3, 1100);
         price.put(4, 890);
+        order = new Order();
     }
     
     public static void main(String[] args) throws IOException {
